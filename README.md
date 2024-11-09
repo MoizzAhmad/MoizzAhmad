@@ -2,16 +2,15 @@
 
 
 ## 💫 About Me:
-🌱 I'm focusing on developing my skills with React.js and Tailwind CSS, which allows me to create responsive and dynamic <be> front-end applications. This hands-on practice is helping me strengthen my understanding of modern front-end frameworks and design practices.<br><be>
+🌱 I'm focusing on developing my skills with React.js and Tailwind CSS, which allows me to create responsive and dynamic front-end applications. This hands-on practice is helping me strengthen my understanding of modern front-end frameworks and design practices.<br>
 
-👯 I'm interested in collaborating on projects that involve cloud technology,<br>AI, and NLP integration, particularly if they intersect with web<br>development. I'm eager to work with like-minded individuals who <br>share a passion for using tech in innovative ways.<br><be>
+👯 I'm interested in collaborating on projects that involve cloud technology, AI, and NLP integration, particularly if they intersect with web development. I'm eager to work with like-minded individuals who share a passion for using tech in innovative ways.<br>
 
-😄 Currently, I am diving into AWS cloud services, Python, and React.js <br>to broaden my skill set and become a more versatile developer. <br>These areas align with my goal of becoming proficient in both <br>front-end and cloud technologies.<br><be>
+😄 Currently, I am diving into AWS cloud services, Python, and React.js to broaden my skill set and become a more versatile developer. These areas align with my goal of becoming proficient in both front-end and cloud technologies.<br>
 
-💬 Ask me about my journey as a 6th-semester Computer Science student<br>my experiences in full stack development, or my passion for combining<br>design and code to create engaging user experiences.<br><be>
+💬 Ask me about my journey as a 6th-semester Computer Science student, my experiences in full-stack development, and my passion for combining design and code to create engaging user experiences.<br>
 
-⚡ I love combining design and development! <br>Creating user-friendly interfaces in Figma and then bringing them to <br>life through code is one of my favorite parts of web development.<br>I also enjoy collaborating with teams to refine ideas and am always <br>excited to take on a leadership role, guiding projects to ensure we <br>deliver a seamless, enjoyable experience for users.<br><br>
-
+⚡ I love combining design and development. Creating user-friendly interfaces in Figma and then bringing them to life through code is one of my favorite parts of web development. I also enjoy collaborating with teams to refine ideas. I am always excited to take on a leadership role, guiding projects to ensure we deliver a seamless, enjoyable experience for users.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/moizz-ahmad-ab6010276) 
