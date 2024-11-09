@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🌱 I'm focusing on developing my skills with React.js and Tailwind CSS, <br>which allows me to create responsive and dynamic front-end <br>applications. This hands-on practice is helping me strengthen <br>my understanding of modern front-end frameworks and design<br>practices.<br><be>
+🌱 I'm focusing on developing my skills with React.js and Tailwind CSS, which allows me to create responsive and dynamic <be> front-end applications. This hands-on practice is helping me strengthen my understanding of modern front-end frameworks and design practices.<br><be>
 
 👯 I'm interested in collaborating on projects that involve cloud technology,<br>AI, and NLP integration, particularly if they intersect with web<br>development. I'm eager to work with like-minded individuals who <br>share a passion for using tech in innovative ways.<br><be>
 
