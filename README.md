@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **MoizzAhmad/MoizzAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,7 +24,7 @@ I'm focusing on developing my skills with React.js and Tailwind CSS, <br>which a
 ---
 [![](https://visitcount.itsvg.in/api?id=MoizzAhmad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
