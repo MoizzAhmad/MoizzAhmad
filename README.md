@@ -1,11 +1,16 @@
-## Hi there 👋
+## Hey!  ✨
 
-**MoizzAhmad/MoizzAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💫 About Me:
+🌱 I'm focusing on developing my skills with React.js and Tailwind CSS, <br>which allows me to create responsive and dynamic front-end <br>applications. This hands-on practice is helping me strengthen <br>my understanding of modern front-end frameworks and design<br>practices.<br><be>
 
-- 🔭 I’m currently working on ...[ReadMe.md](https://github.com/user-attachments/files/17689061/ReadMe.md)# 💫 About Me:
-I'm focusing on developing my skills with React.js and Tailwind CSS, <br>which allows me to create responsive and dynamic front-end <br>applications. This hands-on practice is helping me strengthen <br>my understanding of modern front-end frameworks and design<br>practices.<br><br>I'm interested in collaborating on projects that involve cloud technology,<br>AI, and NLP integration, particularly if they intersect with web<br>development. I'm eager to work with like-minded individuals who <br>share a passion for using tech in innovative ways.<br><br>Currently, I am diving into AWS cloud services, Python, and React.js <br>to broaden my skill set and become a more versatile developer. <br>These areas align with my goal of becoming proficient in both <br>front-end and cloud technologies.<br><br>ask me about my journey as a 6th-semester Computer Science student<br>my experiences in full stack development, or my passion for combining<br>design and code to create engaging user experiences.<br><br>I love combining design and development! <br>Creating user-friendly interfaces in Figma and then bringing them to <br>life through code is one of my favorite parts of web development.<br>I also enjoy collaborating with teams to refine ideas and am always <br>excited to take on a leadership role, guiding projects to ensure we <br>deliver a seamless, enjoyable experience for users.<br><br>
+👯 I'm interested in collaborating on projects that involve cloud technology,<br>AI, and NLP integration, particularly if they intersect with web<br>development. I'm eager to work with like-minded individuals who <br>share a passion for using tech in innovative ways.<br><be>
+
+😄 Currently, I am diving into AWS cloud services, Python, and React.js <br>to broaden my skill set and become a more versatile developer. <br>These areas align with my goal of becoming proficient in both <br>front-end and cloud technologies.<br><be>
+
+💬 Ask me about my journey as a 6th-semester Computer Science student<br>my experiences in full stack development, or my passion for combining<br>design and code to create engaging user experiences.<br><be>
+
+⚡ I love combining design and development! <br>Creating user-friendly interfaces in Figma and then bringing them to <br>life through code is one of my favorite parts of web development.<br>I also enjoy collaborating with teams to refine ideas and am always <br>excited to take on a leadership role, guiding projects to ensure we <br>deliver a seamless, enjoyable experience for users.<br><br>
 
 
 ## 🌐 Socials:
@@ -26,11 +31,5 @@ I'm focusing on developing my skills with React.js and Tailwind CSS, <br>which a
 
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
