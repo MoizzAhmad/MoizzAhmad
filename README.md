@@ -8,7 +8,7 @@
 
 😄 Currently, I am diving into AWS cloud services, Python, and React.js to broaden my skill set and become a more versatile developer. These areas align with my goal of becoming proficient in both front-end and cloud technologies.<br>
 
-💬 Ask me about my journey as a 6th-semester Computer Science student, my experiences in full-stack development, and my passion for combining design and code to create engaging user experiences.<br>
+💬 Ask me about my journey as a 7th-semester Computer Science student, my experiences in full-stack development, and my passion for combining design and code to create engaging user experiences.<br>
 
 ⚡ I love combining design and development. Creating user-friendly interfaces in Figma and then bringing them to life through code is one of my favorite parts of web development. I also enjoy collaborating with teams to refine ideas. I am always excited to take on a leadership role, guiding projects to ensure we deliver a seamless, enjoyable experience for users.<br>
 
