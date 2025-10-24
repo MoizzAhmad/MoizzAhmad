@@ -4,7 +4,7 @@
 ## 💫 About Me:
 🌱 I'm focusing on developing my skills with React.js and Tailwind CSS, which allows me to create responsive and dynamic front-end applications. This hands-on practice is helping me strengthen my understanding of modern front-end frameworks and design practices.<br>
 
-👯 I'm interested in collaborating on projects that involve cloud technology, AI, and NLP integration, particularly if they intersect with web development. I'm eager to work with like-minded individuals who share a passion for using tech in innovative ways.<br>
+👯 I'm interested in collaborating on projects that involve cloud technology, AI (NLP, AGENTS, RAG, ML) particularly if they intersect with web development. I'm eager to work with like-minded individuals who share a passion for using tech in innovative ways.<br>
 
 ⚡ I love combining design and development. Creating user-friendly interfaces in Figma and then bringing them to life through code is one of my favorite parts of web development. I also enjoy collaborating with teams to refine ideas. I am always excited to take on a leadership role, guiding projects to ensure we deliver a seamless, enjoyable experience for users.<br>
 
